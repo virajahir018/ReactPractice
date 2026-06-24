@@ -1,14 +1,14 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     color: #000;
 }
 
-.form{
+.form {
     width: 700px;
     height: auto;
     /* border: 1px solid #000; */
@@ -21,7 +21,8 @@ body{
     border-radius: 8px;
 }
 
-.form input, select{
+.form input,
+select {
     width: 300px;
     padding: 13px 20px;
     border-radius: 5px;
@@ -35,24 +36,21 @@ body{
     color: #000;
 } */
 
-
-
-.form ::placeholder{
+.form ::placeholder {
     color: #000;
 }
 
-
-.ep{
+.ep {
     display: flex;
     justify-content: space-between;
 }
 
-.cs{
+.cs {
     display: flex;
     justify-content: space-between;
 }
 
-.form button{
+.form button {
     padding: 13px 0;
     background: white;
     border: none;

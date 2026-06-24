@@ -39,25 +39,6 @@ function Form() {
             console.log(Email)
 
         }
-
-
-        // if (newUser.Email === "") {
-        //     isValid = false;
-        // }
-        // if (pass === "") {
-        //     isValid = false
-        // }
-        // if (addr === "") {
-        //     isValid = false
-        // }
-        // if (city === "") {
-        //     isValid = false
-        // }
-        // if (state === "") {
-        //     isValid = false
-        // }
-
-
     }
 
     return (

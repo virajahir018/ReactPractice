@@ -3,6 +3,7 @@ import Axios from "./Component/Axios";
 import Slider from "./Component/Slider";
 import "./App.css";
 import Form from "./Component/Form";
+import Practice from "./Component/Practice";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       {/* <User name="Rahul" /> */}
       {/* <Slider/>
       <Axios/> */}
-      <Form/>
+      {/* <Form/> */}
+      <Practice/>
 
 
     </>
